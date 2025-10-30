@@ -6,7 +6,7 @@ import DataCard from './components/DataCard.jsx';
 import ChartView from './components/ChartView.jsx';
 import Modal from './components/Modal.jsx';
 
-const API_BASE_URL = 'http://localhost:5000/api/data';
+const API_BASE_URL = 'https://mgnrega-f28k.onrender.com/api/data';
 const STATE_TO_QUERY = 'UTTAR PRADESH';
 
 // Format functions
