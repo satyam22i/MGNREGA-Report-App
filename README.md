@@ -1,4 +1,4 @@
-# 🇮🇳 Our Voice, Our Rights - MGNREGA Report App
+# 🇮🇳 Our Voice, Our Rights - MGNREGA Report Web App
 
 Hello! This is a simple project that takes complex government data about the MGNREGA program and makes it easy for any common person to understand.
 
